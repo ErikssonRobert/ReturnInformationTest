@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReturnInformationTest</string>
+    <string name="editBtn">Edit</string>
+    <string name="doneBtn">Done</string>
+</resources>
